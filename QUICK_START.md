@@ -8,7 +8,7 @@ Your ticket booking system is now fully dockerized with PostgreSQL. Everything i
 
 ### Option 1: Simple (Recommended)
 ```bash
-cd /Users/nishantshahakar/Documents/projects/Spry\ Health\ Assignment/ticket-booking
+cd ticket-booking
 
 docker-compose up
 ```
